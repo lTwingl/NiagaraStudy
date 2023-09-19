@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0C160EC9-464A-09CE-C4D2-67BDF9C0FE21}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NiagaraStudy",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
